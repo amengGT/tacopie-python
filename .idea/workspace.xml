@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bdb32d55-4b36-4cf7-b89d-c595bff2bccb" name="Default Changelist" comment="" />
+    <list default="true" id="bdb32d55-4b36-4cf7-b89d-c595bff2bccb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tacopie-python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tacopie-python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/thread_pool-0.9-py3.7.egg-info/PKG-INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/thread_pool-0.9-py3.7.egg-info/SOURCES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/thread_pool-0.9-py3.7.egg-info/dependency_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/thread_pool-0.9-py3.7.egg-info/installed-files.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/thread_pool-0.9-py3.7.egg-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-3.7-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-3.7-script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip-script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3-script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.7-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.7-script.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +36,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZUXToWPhTpFYQyp58NU5qVJd3m" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,8 +47,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/utils" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -58,27 +82,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="py_net.socket" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_pro" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../python_pro" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../python_pro/py_net.socket.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="taco_client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tacopie-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,6 +95,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/client/taco_client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="taco_server (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tacopie-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/tacopie-python/server" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:/tacopie-python/server/taco_server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,9 +170,9 @@
       <list>
         <item itemvalue="Python.taco_client" />
         <item itemvalue="Python.taco_server" />
+        <item itemvalue="Python.taco_server (1)" />
         <item itemvalue="Python.io_service" />
         <item itemvalue="Python.thread_pool" />
-        <item itemvalue="Python.py_net.socket" />
       </list>
     </recent_temporary>
   </component>
@@ -165,6 +189,37 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Notifications" timestamp="1585054042397">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -178,30 +233,42 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="668" y="127" key="#io_service/0.0.1920.1040@0.0.1920.1040" timestamp="1584979143247" />
+    <state x="679" y="115" key="#taco_client" timestamp="1585307614399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="115" key="#taco_client/0.0.1920.1040@0.0.1920.1040" timestamp="1585307614399" />
+    <state x="679" y="115" key="#taco_server" timestamp="1585307661891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="115" key="#taco_server/0.0.1920.1040@0.0.1920.1040" timestamp="1585307661891" />
+    <state x="679" y="115" key="#taco_server_(1)" timestamp="1585308009549">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="115" key="#taco_server_(1)/0.0.1920.1040@0.0.1920.1040" timestamp="1585308009549" />
     <state width="914" height="466" key="DebuggerActiveHint" timestamp="1585136793523">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="914" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1585136793523" />
-    <state x="746" y="276" key="FileChooserDialogImpl" timestamp="1585235266367">
+    <state x="746" y="276" key="FileChooserDialogImpl" timestamp="1585308390724">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="746" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585235266367" />
-    <state width="1899" height="239" key="GridCell.Tab.0.bottom" timestamp="1585305822292">
+    <state x="746" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585308390724" />
+    <state width="1899" height="239" key="GridCell.Tab.0.bottom" timestamp="1585308458548">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585305822292" />
-    <state width="1899" height="239" key="GridCell.Tab.0.center" timestamp="1585305822292">
+    <state width="1899" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585308458548" />
+    <state width="1899" height="239" key="GridCell.Tab.0.center" timestamp="1585308458548">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="239" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585305822292" />
-    <state width="1899" height="239" key="GridCell.Tab.0.left" timestamp="1585305822291">
+    <state width="1899" height="239" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585308458548" />
+    <state width="1899" height="239" key="GridCell.Tab.0.left" timestamp="1585308458548">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="239" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585305822291" />
-    <state width="1899" height="239" key="GridCell.Tab.0.right" timestamp="1585305822292">
+    <state width="1899" height="239" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585308458548" />
+    <state width="1899" height="239" key="GridCell.Tab.0.right" timestamp="1585308458548">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="239" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585305822292" />
+    <state width="1899" height="239" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585308458548" />
     <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1585152947152">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -218,10 +285,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585152947152" />
-    <state x="646" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1585305508995">
+    <state x="461" y="162" key="SettingsEditor" timestamp="1585308433622">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="646" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585305508995" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585308433622" />
+    <state x="646" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1585308346139">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="646" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585308346139" />
+    <state x="567" y="220" width="786" height="600" key="find.popup" timestamp="1585307273111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="567" y="220" width="786" height="600" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585307273111" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1585238828923">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

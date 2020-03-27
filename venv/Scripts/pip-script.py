@@ -1,4 +1,4 @@
-#!E:\tacopie-python\venv\Scripts\python.exe
+#!E:\ºº ı±‡≥Ã\tacopie-python\venv\Scripts\python.exe -x
 # EASY-INSTALL-ENTRY-SCRIPT: 'pip==19.0.3','console_scripts','pip'
 __requires__ = 'pip==19.0.3'
 import re
